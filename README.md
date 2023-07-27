@@ -36,8 +36,8 @@ The tutorials in this repository cover a range of topics and use cases to demons
 
 | Tutorial Name                                | Description                                      |
 | ------------------------------------------- | ------------------------------------------------ |
-| [Tutorial 1](notebooks/tutorial_1.ipynb)     | Brief description of Tutorial 1.               |
-| [Tutorial 2](notebooks/tutorial_2.ipynb)     | Brief description of Tutorial 2.               |
+| [YouTube Loader](LangChainGuides/YouTubeLoader.ipynb)     | Analyze YouTube Videos with LangChain and GPT-3.5.               |
+| [PDF Loader (in progress)](notebooks/tutorial_2.ipynb)     | Chat With your data using GPT-3.5.               |
 | ...                                         | ...                                              |
 
 Feel free to explore the tutorials in any order you prefer, depending on your interests and prior experience with the LangChain Library.
