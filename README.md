@@ -18,13 +18,22 @@ The LangChain Library is an open-source Python library designed to simplify and 
 
 ## Installation
 
-Before diving into the tutorials, make sure you have installed the LangChain Library. You can install it using pip:
+Before diving into the tutorials, make sure you have installed the LangChain and OpenAI Libraries. You can install them using pip:
 
 ```bash
-pip install langchain
+pip install langchain openai
 ```
 
 Please refer to the official [LangChain documentation](https://python.langchain.com/docs/get_started/introduction.html) for more detailed installation instructions and library features.
+
+Depending on the tutorial you run, you may need to install the following libraries:
+
+- `python-dotenv`: Used to read the .env file containing the OpenAI API Key
+- `ipykernel`: Enables running this notebook in VSCode
+- `youtube-transcript-api`: Fetches YouTube video transcripts
+- `pytube`: Fetches YouTube video metadata
+- `tiktoken`: Counts tokens in a text
+
 
 ## Getting Started
 
@@ -37,7 +46,7 @@ The tutorials in this repository cover a range of topics and use cases to demons
 | Tutorial Name                                | Description                                      |
 | ------------------------------------------- | ------------------------------------------------ |
 | [YouTube Loader](LangChainGuides/YouTubeLoader.ipynb)     | Analyze YouTube Videos with LangChain and GPT-3.5.               |
-| [PDF Loader (in progress)](notebooks/tutorial_2.ipynb)     | Chat With your data using GPT-3.5.               |
+| [PDF Loader (in progress)](notebooks/ChatWithPodcast.ipynb)     | Chat With your favorite podcast using GPT-3.5.               |
 | ...                                         | ...                                              |
 
 Feel free to explore the tutorials in any order you prefer, depending on your interests and prior experience with the LangChain Library.
