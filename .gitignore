@@ -2,6 +2,6 @@ todo.md
 .env
 .vscode
 
-playground.py
+pg_files/
 
 chroma/
