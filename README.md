@@ -49,6 +49,7 @@ The tutorials in this repository cover a range of topics and use cases to demons
 | [Podcast transcript QA](LangChainGuides/ChatWithPodcast.ipynb)  | Chat With your favorite podcast using GPT-3.5.  |
 | [Second Brain (Obsidian) QA](LangChainGuides/ChatWithObsidian.ipynb) | QA over your second brain with LangChain  |
 | [LangChain Prompt Templates](LangChainGuides/PromptTemplates.ipynb) | How to use Langchain's Prompt templates  |
+| [LangChain Chains](LangChainGuides/ContentIdeaGenerator.ipynb) | How to use Langchain's Chains  |
 
 Feel free to explore the tutorials in any order you prefer, depending on your interests and prior experience with the LangChain Library.
 
