@@ -57,5 +57,5 @@ Feel free to explore the tutorials in any order you prefer, depending on your in
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this code in your projects. We appreciate attribution if you use this library for your work.
+This project is licensed under the [MIT License](https://github.com/krisograbek/LangChain_Tutorials/blob/main/LICENSE.txt). You are free to use, modify, and distribute this code in your projects. We appreciate attribution if you use this library for your work.
 
